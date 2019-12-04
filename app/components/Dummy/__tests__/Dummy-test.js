@@ -1,6 +1,6 @@
 // __tests__/Dummy-test.js
 import React from 'react';
-import Dummy from '../Dummy.component';
+import Dummy from '../DummyComponent';
 
 import renderer from 'react-test-renderer';
 

@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "flexDirection": "row",
+      "fontSize": 18,
+      "height": 120,
+      "padding": 10,
+    }
+  }
+>
+  <View>
+    <Image
+      source={
+        Object {
+          "uri": "https://via.placeholder.com/150/771796",
+        }
+      }
+      style={
+        Object {
+          "borderRadius": 50,
+          "height": 100,
+          "width": 100,
+        }
+      }
+    />
+  </View>
+  <View>
+    <Text>
+      some title to test
+    </Text>
+    <Text>
+      1
+    </Text>
+  </View>
+</View>
+`;
